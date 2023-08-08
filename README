@@ -1,0 +1,14 @@
+To all the people out there who want to get bulk JAV downloads:
+
+Get your drive or folder ready: First, create a dedicated space on your computer where you can store all the downloaded files. Make sure you have the necessary programs and directories ready. You can find them in this GitHub repository.
+Download Jdownloader2: Look for Jdownloader2 online and download it from a reliable source. This program will handle the downloading process for you.
+Run the link grabber.py script: In the repository mentioned earlier, you'll find a script called link grabber.py. Run this script to extract the links needed for downloading the videos.(You need to get the link from javhd.today
+Input the required details: Follow the instructions provided by the user interface. You'll need to enter the URL of the JAV website and specify the number of pages you want to extract. Additionally, you can create a list of unwanted words to filter out video names containing those words or phrases. If you prefer, you can also enable the program to check the tags of the videos. Just keep in mind that this may take longer due to the additional link opening and tag extraction process.
+Wait for completion and copy links: Give the program some time to extract the links. Once it's done, you'll receive a message indicating completion. Simply click on "Copy Links to Clipboard" to save the links.
+Open Jdownloader: Launch Jdownloader on your computer. Please note that Jdownloader might not be able to download all videos, and some video names may not follow the proper JAV code format. You might come across videos with random or unusual names.
+Save videos to the Video folder: Configure Jdownloader to save the downloaded videos to a specific Video folder on your computer.
+
+Additional Information: If you want to rename the downloaded files, you can use the provided renamer.py code. This code extracts the JAV code from the file or folder name and renames it to match the video name found on the website. However, please be aware that randomly named files downloaded from Jdownloader may not be renamed.Note (read before starting the process):
+Only use the javhd.today website.
+Jdownloader may not be able to download all videos.
+The file names may appear strange after downloading from Jdownloader, such as 'jkioifajvhcasc' or 'bcwtatbfvasd'.
